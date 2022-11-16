@@ -1,0 +1,25 @@
+Python
+- fastest growing programming language in the world
+- fields unlocked - machine learning and AI, web development
+
+first line of code in file app.py
+print('hello world')
+
+print('My name is mihir, my age is', 100) -> tells python once the string ends, it is followed by a number/integer, it also automatically leaves space post the comma
+
+Variables
+name = 'Tim'				//variable declaration
+
+print(name + ' is a boy')		//this is called concatenation of variable with string
+print(name + ' is 18')
+print(name + ' is from turkey')
+print(name)
+
+Data Types
+integer, boolean, character, string
+
+age = 18
+print(name + ' is ' + age)		//it throws error as string cannot be concatenated with an integer
+
+print(name + ' is', age)		//here it works as we separate the integer with comma
+
