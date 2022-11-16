@@ -23,3 +23,47 @@ print(name + ' is ' + age)		//it throws error as string cannot be concatenated w
 
 print(name + ' is', age)		//here it works as we separate the integer with comma
 
+print(name, 'is' , age)			//this also works as string can be separated with comma as well as + sign
+
+Strings
+These are plain text.
+
+print('Hi.\nHow are you')		//here backslash n continues the string values in the new line
+
+In between single quotes, we cannot add a quote inside the string value. 
+print('Hi. \'How are you')		//but with backslash, python reads the next characted which is a quote as string value only
+
+Special Funcitons on Strings
+20:17
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
